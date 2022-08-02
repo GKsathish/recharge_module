@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.nav,center{
+  background-color:#000080;
+  background-size: cover;
+  color:#ffffff;
+  
+}
+body{
+  background-color:orchid;
+}
+p{
+  padding:20px;
+  margin:10px;
+}
